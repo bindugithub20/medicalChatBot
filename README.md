@@ -1,1 +1,1 @@
-# medicalChatBot
+The Medical Assistant Chatbot is a web-based application designed to answer medical questions posed by users. Built using Streamlit, it combines machine learning and natural language processing (NLP) techniques to provide accurate and informative responses, with a focus on medical domain knowledge. It aims to assist users by leveraging both pre-existing medical data and generative AI, while emphasizing that it’s not a substitute for professional medical advice.
